@@ -1,13 +1,13 @@
-#💻 Explorando Git y GitHub: tu bitácora de control de versiones
+# 💻 Explorando Git y GitHub: tu bitácora de control de versiones
 ---
-##Git 🔺
+## Git 🔺
 <img src="https://images.icon-icons.com/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" width="190"/>
 
 - ¿Qué es? Un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios, hacer un seguimiento del historial del código y volver a versiones anteriores.
 - Función principal: Gestionar el historial de un proyecto de forma local en la máquina de cada desarrollador.
 - Características: Permite crear ramas para trabajar en paralelo, integrar con entornos de desarrollo y realizar un seguimiento detallado de los cambios.
 
-##GitHub 🔲
+## GitHub 🔲
 
 <img src="https://static.vecteezy.com/system/resources/previews/017/119/660/non_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" width="300"/>
 
